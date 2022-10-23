@@ -25,7 +25,7 @@ const oldMarkup = "The Apples are the best fruit. Apples will dominate other fru
 let newMarkup = oldMarkup.replaceAll("Apples", "Oranges");
 
 //  Includes
-let stockChoices == 'AAPL, MSFT, GOOG, AMZN, FB';
+let stockChoices = 'AAPL, MSFT, GOOG, AMZN, FB';
 let containsNetflixStock = stockChoices.includes('NFLX');
 
 // Uppercase/Lowercase
